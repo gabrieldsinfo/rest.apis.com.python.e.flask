@@ -1,4 +1,5 @@
-#CRIANDO O CONSTRUTOR E TEREMOS UM OBJETO QUANDO FOR ESTANCIAR A CLASSE HOTELMODEL
+#1.2 CRIANDO O CONSTRUTOR E TEREMOS UM OBJETO QUANDO FOR ESTANCIAR A CLASSE HOTELMODEL
+
 class HotelModel:
     def __init__(self, hotel_id, nome, estrelas, diaria, cidade):
         self.hotel_id = hotel_id
