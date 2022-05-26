@@ -10,7 +10,7 @@
 
 • REST API integrada com Banco de Dados.
 
--- Branches - em construção 🚧 --
+-- Branches --
 
 • conceitos.basico.ao.avançado;
 
