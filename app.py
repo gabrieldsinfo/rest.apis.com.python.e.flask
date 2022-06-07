@@ -1,5 +1,5 @@
 #01.APP
-#CLASSE PRINCIPAL COM LIBS E BANCO DE DADOS.
+#CLASSE PRINCIPAL COM LIBS, BANCO DE DADOS E JWT.
 
 from flask import Flask, jsonify
 from flask_restful import Api
