@@ -1,0 +1,6 @@
+#00.EXEMPLO DE IMPRESSOES.
+#PRINT = REALIZA IMPRESSOES.
+"""
+print("OLÁ MUNDO") 
+print("OLÁ MUNDO 02")
+"""
