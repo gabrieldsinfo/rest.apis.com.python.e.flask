@@ -1,4 +1,4 @@
--- Biblioteca em Rest APIs com Python e Flask --
+-- Biblioteca em Rest APIs com Python e Flask - em construção 🚧 --
 
 • Conceitos REST;
 
